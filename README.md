@@ -7,7 +7,7 @@
 - Sameeksha Reddy
 
 ## Developers
-- Jyotika Koneru
-- Pgnanasri 
-- Danish 
-- Teja Puram
+- Abhinav Sharma
+- Goutham
+- Harshitha
+- Charan
